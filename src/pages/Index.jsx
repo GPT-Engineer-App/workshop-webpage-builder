@@ -15,9 +15,6 @@ const Index = () => {
             <Text fontSize="xl" maxW="600px">
               We provide top-notch computer repair services, upgrades, and technical support for all your computing needs.
             </Text>
-            <Button colorScheme="blue" size="lg">
-              Book an Appointment
-            </Button>
           </Stack>
         </Container>
       </Box>
